@@ -6,6 +6,6 @@
 
 A simple example that introduces the concepts of a recurrent neural network (RNN). The example coded here uses an RNN network to perform the simple task of adding two numbers in binary representation.
 
-The insipration for this example was taken from this article: [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](this post here https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+The insipration for this example was taken from this article: [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
 ~ Jokes all around
